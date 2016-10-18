@@ -1,0 +1,9 @@
+*****file library*******
+
+function:
+	f_open;
+	f_close;
+	fillbuf;
+	f_flush;
+	f_scanf;
+	f_read;
